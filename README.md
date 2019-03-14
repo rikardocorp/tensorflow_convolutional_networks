@@ -56,3 +56,6 @@ The class for loading a dataset and generating sub sets for the minibatchs is in
   - *data/[image].jpg:* The directory that contains the input images.
   - *data-train.csv:* The file containing the list of all training images. This contains two main fields [ 'image name (string)','class (string)','tag or class (int)'].
   - *minibatch:* This variable stores the size of the minibatch.
+
+### Enverioment GPU
+Google Colaboratory: <a href='https://drive.google.com/drive/folders/1FQIrTWLObCfFOjqQojzx73qQ2g2X6g-f?usp=sharing'>Colab Workspace<a/>
