@@ -1,0 +1,6 @@
+/.vscode
+.ipynb_checkpoints
+__pycache__
+*.pyc
+/weights
+/data/leafsnap-dataset
