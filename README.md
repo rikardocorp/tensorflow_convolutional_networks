@@ -74,3 +74,4 @@ Google Colaboratory: <a href='https://drive.google.com/drive/folders/1FQIrTWLObC
   - Basic course of Machine Learning and Tensorflow: <a target='_blank' href='https://paper.dropbox.com/doc/MACHINE-LEARNING-ML--AZTcNGc3Q~wJa~hst1IjrRguAQ-Wakz7vrDO4AmkK9zhGO9e'>MACHINE-LEARNING-ML</a>
   - Basic documentation of Tensorflow: <a target='_blank' href='https://paper.dropbox.com/doc/TENSORFLOW--AZSCmtaqm6hHuzONzQ1DQYsiAQ-Tt6UfeyV3zEm7ds2ZeO5X'>TENSORFLOW</a>
   - Tensorflow practical course: <a target='_blank' href='https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc?usp=sharing'>Drive Folder</a>
+  - [Drive Folder](https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc?usp=sharing){:target="_blank"}
