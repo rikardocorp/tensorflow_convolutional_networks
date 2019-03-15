@@ -1,6 +1,6 @@
 # Tensorflow VGG Transfer Learning - Trainable
 
-This is a Tensorflow implemention of VGG 16 and VGG 19 based on [tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg), developed for [Tensor r1.0](https://www.tensorflow.org/)
+This is a Tensorflow implemention of VGG 16 and VGG 19 based on [tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg), developed for [Tensor r1.1.0](https://www.tensorflow.org/)
 
 We have modified the implementation of <a href="https://github.com/machrisaa/tensorflow-vgg">tensorflow-vgg</a> so that the model support different image formats (jpg,png,jpeg). Additionally we have developed a function 
 In addition we have developed a function to perform model training using mini-batches and epochs. The project own us modify the original model and load the weights pre-trained in the required layer.
