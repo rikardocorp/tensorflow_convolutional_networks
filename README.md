@@ -71,6 +71,6 @@ The class for loading a dataset and generating sub sets for the minibatchs is in
 Google Colaboratory: <a href='https://drive.google.com/drive/folders/1FQIrTWLObCfFOjqQojzx73qQ2g2X6g-f?usp=sharing'>Colab Workspace<a/>
 
 ### Additional
-Basic course of Machine Learning and Tensorflow: <a href='https://paper.dropbox.com/doc/MACHINE-LEARNING-ML--AZTcNGc3Q~wJa~hst1IjrRguAQ-Wakz7vrDO4AmkK9zhGO9e'>MACHINE-LEARNING-ML</a>
-Basic documentation of Tensorflow: <a href='https://paper.dropbox.com/doc/TENSORFLOW--AZSCmtaqm6hHuzONzQ1DQYsiAQ-Tt6UfeyV3zEm7ds2ZeO5X'>TENSORFLOW</a>
-Tensorflow practical course: <a href='https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc?usp=sharing'>Drive Folder</a>
+  - Basic course of Machine Learning and Tensorflow: <a href='https://paper.dropbox.com/doc/MACHINE-LEARNING-ML--AZTcNGc3Q~wJa~hst1IjrRguAQ-Wakz7vrDO4AmkK9zhGO9e'>MACHINE-LEARNING-ML</a>
+  - Basic documentation of Tensorflow: <a href='https://paper.dropbox.com/doc/TENSORFLOW--AZSCmtaqm6hHuzONzQ1DQYsiAQ-Tt6UfeyV3zEm7ds2ZeO5X'>TENSORFLOW</a>
+  - Tensorflow practical course: <a href='https://drive.google.com/drive/folders/0B41Zbb4c8HVyMHlSQlVFWWphNXc?usp=sharing'>Drive Folder</a>
