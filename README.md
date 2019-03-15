@@ -18,10 +18,20 @@ The guiding project (<a href="https://github.com/machrisaa/tensorflow-vgg">tenso
               vgg19.npy[548MB]: wget https://www.dropbox.com/s/691wtp4oq5ip38p/vgg19.npy
   ```
 
+### Content
+  - ./data: This folder contains samples of images to execute the examples of the folder ./scripts/tester/.
+  - ./notebooks: This folder contains files with .ipynb extension for Jupyter .
+  - ./script: This folder contains the scripts neccesary to execute the convolutional networks.
+    - ./scripts/nets: This folder contains the classes responsible for building a tensorflow graph and provides functions for manipulating the convolutional network model.
+    - ./scripts/tools: This folder contains auxiliary functions to execute the models.
+    - ./scripts/tester: This folder contains an example for each convolutional network class.
+  - ./weights: You should create this folder and add the downloaded npy files.
+  - ./graphs: If you want to use Tensorboard, it is recommended to create this folder to store the necessary files that will run the local server with Tensorboard
+
 ### Project Files
- - The files `test_vgg16.py`, `test_vgg19.py` are simple examples, that can be executed only by cloning the project.
- - The file `test_vgg19_trainable.py` is a simple example of test and training of a CNN model. Also can be executed only by cloning the project
- - The file `test_vgg19_all.py` is a complete classification model that require other files and a dataset more elaborate.
+ - The files `t_vgg19.py`, `tester_vgg19_trainable.py` are simple examples, that can be executed only by cloning the project.
+ - The file `t_vgg19_trainable.py` is a simple example of test and training of a CNN model. Also can be executed only by cloning the project
+ - The file `t_vgg19_batch.py` is a complete classification model that require other files and a dataset more elaborate.
 
 ### Usage
 Use this to build the VGG object
